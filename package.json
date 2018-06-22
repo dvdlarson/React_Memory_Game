@@ -1,0 +1,25 @@
+{
+  "name": "react_memory_game",
+  "version": "1.0.0",
+  "description": "Memory game made with react - U of A coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdlarson/React_Memory_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdlarson/React_Memory_Game/issues"
+  },
+  "homepage": "https://github.com/dvdlarson/React_Memory_Game#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "create-react-app": "^1.5.2",
+    "react": "^16.4.1",
+    "react-router-dom": "^4.3.1"
+  }
+}
